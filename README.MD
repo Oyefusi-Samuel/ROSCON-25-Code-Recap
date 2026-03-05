@@ -238,6 +238,8 @@ These were pre-submitted and scheduled ahead of the conference.
 
 ### ⚡ Lightning Talks — Day 1
 
+> 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
+
 | Talk | Presenter(s) | Organization | 📦 Repo / Resources |
 |---|---|---|---|
 | **Plugging ROS 2 into Legacy Robotics: Lessons from FANUC Integration** | Jayden Oyola Risco | GGI Robotic | — |
@@ -263,9 +265,11 @@ These were pre-submitted and scheduled ahead of the conference.
 | **Running Autoware with Zenoh** | ChenYing Kuo | ZettaScale | — |
 | **Design by contract for robust robotics software** | Zoltán Rési | ROBOSS PTE LTD | — |
 
-> 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
+<br/>
 
 ### ⚡ Lightning Talks — Day 2
+
+> 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
 
 | Talk | Presenter(s) | Organization | 📦 Repo / Resources |
 |---|---|---|---|
@@ -291,8 +295,6 @@ These were pre-submitted and scheduled ahead of the conference.
 | **PRISM FZF Rosbag Tool** | Sai Rohitth Chiluka | Peppermint Robotics | — |
 | **Teaching Robots to Dive - Open-Source Underwater Robotics Course** | Daniel Duecker | TU Munich & TU Hamburg | — |
 | **Post-ROSCon Hackathon this Friday!** | Arjo Chakravarty | Intrinsic | — |
-
-> 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
 
 ---
 
