@@ -267,6 +267,31 @@ These were pre-submitted and scheduled ahead of the conference.
 
 ### ⚡ Lightning Talks — Day 2
 
+| Talk | Presenter(s) | Organization | 📦 Repo / Resources |
+|---|---|---|---|
+| **OSRF Infra 24.04 Migration in 2.04 minutes** | Cristóbal Arroyo | OSRF Infrastructure Committeer & Ekumen DevOps Engineer | — |
+| **Beyond Boundaries: Redefining Access to Technical Education** | Irina Terebiznik | National Technological University | — |
+| **Franka Robotics Open-source activities** | Baris Yazici | Franka Robotics - Robotics Software Engineer | — |
+| **FOSDEM Robotics and simulation devroom** | Kimberly McGuire | Independent Contractor | — |
+| **The Future of the Engineering Workforce is here** | Shaur Kumar | — | — |
+| **ROS at the Airport** | Ruben Arts | Prefix.dev | — |
+| **Monobranch ROS Packages** | Emerson Knapp | Polymath Robotics | — |
+| **Stratospheric Gliders, Reusable Radiosondes and more!** | Junwoo Hwang | Independent Researcher | — |
+| **Introducing Space Grade Linux** | Ramon Roche | Linux Foundation | — |
+| **Isaac: Open Robotics Development Platform** | Raffaello Bonghi | Technical Marketing & Community Support | — |
+| **Analog Devices ROS Drivers now available!** | Maggie Maralit | Analog Devices | — |
+| **Low-Cost Underwater Robotics with ROS 2** | Abu Bakr Azam | Nanyang Technological University | — |
+| **DWARL** | Ferry Schoenmakers | — | — |
+| **Wind turbine repairs with robots** | Ivars Renge | Head of R&D, Aerones | — |
+| **Autonomous and Remote Control System for Construction Machinery** | Ryodo Tanaka | CEO | — |
+| **Accerating robot HW/product development** | Jakub Suchanek | Fabrica AI co-founder & CEO | — |
+| **ROS 2 => Asterics Bridge** | Francisco J. Rodriguez Lera | Universidad de León (Spain) | — |
+| **Chaos to Calm** | Akash Vibhute | Chief Shepherd | — |
+| **Pixi and cppyy to use C++ stuff in Python quickly** | Sam Pfeiffer | Wayve | — |
+| **PRISM FZF Rosbag Tool** | Sai Rohitth Chiluka | Peppermint Robotics | — |
+| **Teaching Robots to Dive - Open-Source Underwater Robotics Course** | Daniel Duecker | TU Munich & TU Hamburg | — |
+| **Post-ROSCon Hackathon this Friday!** | Arjo Chakravarty | Intrinsic | — |
+
 > 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
 
 ---
