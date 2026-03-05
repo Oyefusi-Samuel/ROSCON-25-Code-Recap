@@ -236,13 +236,65 @@ Lightning talks are a beloved ROSCon tradition — rapid-fire 1–2 minute commu
 
 These were pre-submitted and scheduled ahead of the conference.
 
+### ⚡ Lightning Talks — Day 1
+
+> 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
+
+| Talk | Presenter(s) | Organization | 📦 Repo / Resources |
+|---|---|---|---|
+| **Plugging ROS 2 into Legacy Robotics: Lessons from FANUC Integration** | Jayden Oyola Risco | GGI Robotic | — |
+| **Let‘s forbid python launch files!** | Dr. Denis Stogl | b>>robotized | — |
+| **ROS2 on Circuitpython** | Lucian Copeland | — | — |
+| **RDK: A Powerful Hardware-Software Integration Platform for ROS 2 Applications** | Robbin Hu | D-Robotics | — |
+| **A (quick) overview of ROS@Bosch​** | Christian Henkel | Bosch Research | — |
+| **Bridging ROS 1 and 2 with Ubuntu 24.04 and Jazzy in Production** | Vatan Aksoy Tezer | KABAM Robotics | — |
+| **Robotics for Everyone: Connecting Latin America Through ROS Community** | Catalina Caycedo | RAS Javeriana IEEE St. Ch. | — |
+| **MoboBot (The Nigerian TurtleBot)** | Samuel Obiagba | Robocre8 | — |
+| **Motion Planning For The People** | Sebastian Castro | — | — |
+| **Does the World need a Horseshitbot** | Alexis Wiasmitinow | — | — |
+| **Automatic Sensor Calibration for (Better Than) Pixel-Perfect Sensor Fusion** | William Sitch | Main Street Autonomy | — |
+| **New ROS2 Broadcaster: Battery State Broadcaster** | Yara Shahin | b>>robotized | — |
+| **Challenges for AMR & MM** | Brandon Koh | CHART | — |
+| **ros2_fmt_logger** | Tim Clephas | Nobleo Autonomous Solutions | — |
+| **YASMIN (Yet Another State MachINe)** | Miguel Á. González-Santamarta | Universidad de León | — |
+| **ros-python-wheels: Pip-installable ROS packages** | Yifei Cheng | Remedy Robotics | — |
+| **Dynamic Safety for ROS 2** | Pietro Pierpaoli | 3Laws Robotics | — |
+| **Stamp out your twist problems!** | Josh Newans | — | — |
+| **Simple cmake in interface packages** | Kotar YOSHIMOTO | TIER IV, Inc | — |
+| **Enhancement to Open-RMF: Zone Feature with Sensor-Augmented Dynamic Goal** | Chee Keai Jiang | Changi General Hospital | — |
+| **Running Autoware with Zenoh** | ChenYing Kuo | ZettaScale | — |
+| **Design by contract for robust robotics software** | Zoltán Rési | ROBOSS PTE LTD | — |
+
+<br/>
+
 ### ⚡ Lightning Talks — Day 2
 
 > 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
 
-### ⚡ Lightning Talks 2 — Day 3
-
-> 🎥 [Watch full block on Vimeo](https://vimeo.com/openrobotics/albums)
+| Talk | Presenter(s) | Organization | 📦 Repo / Resources |
+|---|---|---|---|
+| **OSRF Infra 24.04 Migration in 2.04 minutes** | Cristóbal Arroyo | OSRF Infrastructure Committeer & Ekumen DevOps Engineer | — |
+| **Beyond Boundaries: Redefining Access to Technical Education** | Irina Terebiznik | National Technological University | — |
+| **Franka Robotics Open-source activities** | Baris Yazici | Franka Robotics - Robotics Software Engineer | — |
+| **FOSDEM Robotics and simulation devroom** | Kimberly McGuire | Independent Contractor | — |
+| **The Future of the Engineering Workforce is here** | Shaur Kumar | — | — |
+| **ROS at the Airport** | Ruben Arts | Prefix.dev | — |
+| **Monobranch ROS Packages** | Emerson Knapp | Polymath Robotics | — |
+| **Stratospheric Gliders, Reusable Radiosondes and more!** | Junwoo Hwang | Independent Researcher | — |
+| **Introducing Space Grade Linux** | Ramon Roche | Linux Foundation | — |
+| **Isaac: Open Robotics Development Platform** | Raffaello Bonghi | Technical Marketing & Community Support | — |
+| **Analog Devices ROS Drivers now available!** | Maggie Maralit | Analog Devices | — |
+| **Low-Cost Underwater Robotics with ROS 2** | Abu Bakr Azam | Nanyang Technological University | — |
+| **DWARL** | Ferry Schoenmakers | — | — |
+| **Wind turbine repairs with robots** | Ivars Renge | Head of R&D, Aerones | — |
+| **Autonomous and Remote Control System for Construction Machinery** | Ryodo Tanaka | CEO | — |
+| **Accerating robot HW/product development** | Jakub Suchanek | Fabrica AI co-founder & CEO | — |
+| **ROS 2 => Asterics Bridge** | Francisco J. Rodriguez Lera | Universidad de León (Spain) | — |
+| **Chaos to Calm** | Akash Vibhute | Chief Shepherd | — |
+| **Pixi and cppyy to use C++ stuff in Python quickly** | Sam Pfeiffer | Wayve | — |
+| **PRISM FZF Rosbag Tool** | Sai Rohitth Chiluka | Peppermint Robotics | — |
+| **Teaching Robots to Dive - Open-Source Underwater Robotics Course** | Daniel Duecker | TU Munich & TU Hamburg | — |
+| **Post-ROSCon Hackathon this Friday!** | Arjo Chakravarty | Intrinsic | — |
 
 ---
 
